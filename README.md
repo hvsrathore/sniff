@@ -29,4 +29,4 @@ A custom network packet sniffer written in raw Python using the standard `socket
 Run the script from your terminal with root/sudo permissions:
 
 ```bash
-sudo python3 sniffer.py
+sudo python3 sniff.py
